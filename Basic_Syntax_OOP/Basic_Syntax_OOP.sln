@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic_Syntax_OOP", "Basic_Syntax_OOP\Basic_Syntax_OOP.csproj", "{F5BEFDB3-50DC-44AC-8FA7-53EBF2742419}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolLibrary", "SchoolLibrary\SchoolLibrary.csproj", "{0530441B-7DF0-4B9B-9B9E-D9AC1A09701C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolsFormsApp", "SchoolsFormsApp\SchoolsFormsApp.csproj", "{1AEB93C6-B776-4367-A8C0-F725F4E4DB22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F5BEFDB3-50DC-44AC-8FA7-53EBF2742419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5BEFDB3-50DC-44AC-8FA7-53EBF2742419}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5BEFDB3-50DC-44AC-8FA7-53EBF2742419}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5BEFDB3-50DC-44AC-8FA7-53EBF2742419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0530441B-7DF0-4B9B-9B9E-D9AC1A09701C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0530441B-7DF0-4B9B-9B9E-D9AC1A09701C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0530441B-7DF0-4B9B-9B9E-D9AC1A09701C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0530441B-7DF0-4B9B-9B9E-D9AC1A09701C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AEB93C6-B776-4367-A8C0-F725F4E4DB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEB93C6-B776-4367-A8C0-F725F4E4DB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEB93C6-B776-4367-A8C0-F725F4E4DB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEB93C6-B776-4367-A8C0-F725F4E4DB22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
